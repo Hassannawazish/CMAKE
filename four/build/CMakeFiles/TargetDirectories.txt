@@ -1,0 +1,6 @@
+/home/maanz-ai/Desktop/CMAKE-Utube/four/build/CMakeFiles/rebuild_cache.dir
+/home/maanz-ai/Desktop/CMAKE-Utube/four/build/CMakeFiles/Hassan1.dir
+/home/maanz-ai/Desktop/CMAKE-Utube/four/build/CMakeFiles/edit_cache.dir
+/home/maanz-ai/Desktop/CMAKE-Utube/four/build/Adder/CMakeFiles/rebuild_cache.dir
+/home/maanz-ai/Desktop/CMAKE-Utube/four/build/Adder/CMakeFiles/Adder.dir
+/home/maanz-ai/Desktop/CMAKE-Utube/four/build/Adder/CMakeFiles/edit_cache.dir

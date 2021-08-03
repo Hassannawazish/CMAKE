@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Hassan1.dir/main.cpp.o -o Hassan1   -L/home/maanz-ai/Desktop/CMAKE-Utube/four/Adder  -Wl,-rpath,/home/maanz-ai/Desktop/CMAKE-Utube/four/Adder Adder/libAdder.a 
